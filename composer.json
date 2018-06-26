@@ -1,0 +1,17 @@
+{
+    "name": "baijunyao/ip",
+    "description": "ip city",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "baijunyao",
+            "email": "baijunyao@baijunyao.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Baijunyao\\Ip\\": "src/"
+        }
+    }
+}
