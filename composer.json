@@ -9,6 +9,9 @@
             "email": "baijunyao@baijunyao.com"
         }
     ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    },
     "autoload": {
         "psr-4": {
             "Baijunyao\\Ip\\": "src/"
